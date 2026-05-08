@@ -5,11 +5,11 @@
   "platforms": {
     "linux-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWTZNY3JOUmh0RVJzZngvYUl4a1E1ckpvTUJwSGFCM3pweXFLK3RwSWlOcGluTzJFUFo0LzJTblViYTEydklpYmtWYVE1ZnBHMXVHVHg2SVdlOU5ZSU9TT0drcEk5ZWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3ODkzMDI2CWZpbGU6Q2hpbWVyYU1pbmRfMy4xLjExX2FtZDY0LkFwcEltYWdlCmtLOEhkNU5FQUhYLzNTcXJxblpiNlg1aEFzVmFpeEVNOSt0UHZlQUFxRkRMbzNHWjBpbGdkSnl0ajc2eTR6VWduZS9hVStkRUNTcU95RHAwQjFJbUR3PT0K",
-      "url": "https://github.com/paulet4a/ChimeraMind-releases/releases/download/v3.1.11/ChimeraMind_3.1.11_amd64.AppImage"
+      "url": "https://github.com/paulet4a-commits/ChimeraMind-releases/releases/download/v3.1.11/ChimeraMind_3.1.11_amd64.AppImage"
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWTZNY3JOUmh0RWYvZFpSVkFya1J0RloxbCthazZ6RVIyOVZOUVVFQ0x0MEhraW9MU0Y0bHUzaE1BaE1JaU1WSUdKeS9pb3pQR1pVUkx4OTdRT2hDKzQ5Wmpsd2dXUEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3ODkzMjAxCWZpbGU6Q2hpbWVyYU1pbmRfMy4xLjExX3g2NC1zZXR1cC5uc2lzLnppcAo5dEFlaUg2TFE0blNmOGFKODdBd3RQRC82V2d2NVZia3ljcDNjYmdTNGRzTkZBc1k4SzNsc3V6VlFHUHZBMmhkU2QyNktEaDFPSUJ6S2dQMk5PR3hEZz09Cg==",
-      "url": "https://github.com/paulet4a/ChimeraMind-releases/releases/download/v3.1.11/ChimeraMind_3.1.11_x64-setup.nsis.zip"
+      "url": "https://github.com/paulet4a-commits/ChimeraMind-releases/releases/download/v3.1.11/ChimeraMind_3.1.11_x64-setup.nsis.zip"
     }
   }
 }

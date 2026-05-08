@@ -79,7 +79,7 @@ Download: `ChimeraMind_2.0.0_x64-setup.exe`
 ## 📞 Support
 
 For issues and feature requests:
-- GitHub Issues: https://github.com/paulet4a/ChimeraMind-releases/issues
+- GitHub Issues: https://github.com/paulet4a-commits/ChimeraMind-releases/issues
 
 ---
 

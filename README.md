@@ -5,7 +5,7 @@
 **Trading, reimagined as an organism.**
 21 strategies as one antifragile mind. Adaptive. Governed. Audit-grade.
 
-[![Latest](https://img.shields.io/github/v/release/paulet4a/ChimeraMind-releases?style=for-the-badge&label=Latest&color=10B981)](https://github.com/paulet4a/ChimeraMind-releases/releases/latest)
+[![Latest](https://img.shields.io/github/v/release/paulet4a-commits/ChimeraMind-releases?style=for-the-badge&label=Latest&color=10B981)](https://github.com/paulet4a-commits/ChimeraMind-releases/releases/latest)
 [![Website](https://img.shields.io/badge/chimeramind.com-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chimeramind.com)
 [![X](https://img.shields.io/badge/@ChimeraMindApp-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ChimeraMindApp)
 
@@ -15,7 +15,7 @@
 
 ## Download
 
-Get the latest desktop build from the [**Releases**](https://github.com/paulet4a/ChimeraMind-releases/releases/latest) page.
+Get the latest desktop build from the [**Releases**](https://github.com/paulet4a-commits/ChimeraMind-releases/releases/latest) page.
 
 | Platform | Installer |
 |----------|-----------|
@@ -87,7 +87,7 @@ Full overview: <https://chimeramind.com>
 ## Support & Links
 
 - Product site: <https://chimeramind.com>
-- Status & changelog: see [**Releases**](https://github.com/paulet4a/ChimeraMind-releases/releases)
+- Status & changelog: see [**Releases**](https://github.com/paulet4a-commits/ChimeraMind-releases/releases)
 - Updates: [@ChimeraMindApp](https://x.com/ChimeraMindApp)
 - LinkedIn: [chimeramind](https://www.linkedin.com/company/chimeramind/)
 - Security disclosures: `security@chimeramind.com` (see [SECURITY.md](SECURITY.md))
