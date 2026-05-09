@@ -1,15 +1,15 @@
 {
-  "version": "3.1.15",
-  "notes": "ChimeraMind v3.1.15",
-  "pub_date": "2026-05-09T10:39:36Z",
+  "version": "3.1.16",
+  "notes": "ChimeraMind v3.1.16",
+  "pub_date": "2026-05-09T12:05:13Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUS3dFYnZHM0kxclpXZFpvT3ZLdENVdGM3K3AySFB4Z1ArTExpNWtoVXhmaGg0VTU3MzhvcUE4TXRBOVN2Qm05N0phbzJ5L09Rc3BWWFdBOVZaa3oxUFRxT0hiSXA4TlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MzIzMTc1CWZpbGU6Q2hpbWVyYU1pbmRfMy4xLjE1X2FtZDY0LkFwcEltYWdlCnpjYXExK3lWUWZOMndpTm1YcVcydUJpK0xoaXV0eXpYa1FzRm9mU2hsUjZTMEtpSkdvdEU4TXNXWEZ3Zm5nMDBLcXRuS0h1K1pUdG5kWmp4TnNOS0N3PT0K",
-      "url": "https://github.com/paulet4a-commits/ChimeraMind-releases/releases/download/v3.1.15/ChimeraMind_3.1.15_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWTZNY3JOUmh0RWJEN0JQZ0J5YnU2V3dySDlCdmFzNmNNcllvNUViOURpdHlKYm1UZGF5RUtUdkJna1cvVmZQMUlESFFvay9YU3crR3BuZDE4WE1iaWRvdExMd0J4S1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MzI4MzEyCWZpbGU6Q2hpbWVyYU1pbmRfMy4xLjE2X2FtZDY0LkFwcEltYWdlCkZqdTZBZnB0YUpkb0dUMThtNGVkS2JidzlXYlYxSWlkSFBna2tnNEhCZFphcnlMYVJieWZ5WHlLZGJwaGFnaUpRSTEwZW1EbTJWVm5WWjRDckErTkJ3PT0K",
+      "url": "https://github.com/paulet4a-commits/ChimeraMind-releases/releases/download/v3.1.16/ChimeraMind_3.1.16_amd64.AppImage"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUS3dFYnZHM0kxclI4YnlobzZhaXIvcW5waDQ4OE1GLzJhUXBzckNJY0FBOFUzczBhUVJnenZ0YzNvMThvRUc0SHZMbWd2c1hRdnpjS3BjSXdkWU85U1hVdW1BY1FVMkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MzIzNTU1CWZpbGU6Q2hpbWVyYU1pbmRfMy4xLjE1X3g2NC1zZXR1cC5uc2lzLnppcApZcFFPTjUyZzJ3dGVVY21MWFk3S0c4L2RNay8xS3J1VVVOZU9JRzFTMGxzMmlWZUh3czUzclJiLzRrWm5MNTA5bnVQbUZBZjU4VHlLNUVXTGRMa0lBZz09Cg==",
-      "url": "https://github.com/paulet4a-commits/ChimeraMind-releases/releases/download/v3.1.15/ChimeraMind_3.1.15_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUWTZNY3JOUmh0RVp4VDlPbklLaThlOVNTWmpLVFU1aUFJMVZVa2ovOGx5WGE3YU9ZL3dQTmZHaEVoOExQOGYxTkJ3aGVXVGw1d0JYOVVyeFBvT1kxSWM5TWdsOUJ5bGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MzI4NTg3CWZpbGU6Q2hpbWVyYU1pbmRfMy4xLjE2X3g2NC1zZXR1cC5uc2lzLnppcApTdUtXdURRYlM4bUVCZUtCZkpDMlZGUVhWQUViZDZhblFDeC9qZnpSWWdkTUpseW5GaGdoL3NEcyt1YVJLNTlPamxaRE5ROEkvd3RsM2ZyRmhoQVBCZz09Cg==",
+      "url": "https://github.com/paulet4a-commits/ChimeraMind-releases/releases/download/v3.1.16/ChimeraMind_3.1.16_x64-setup.nsis.zip"
     }
   }
 }
